@@ -1,0 +1,62 @@
+$date
+	Sun Oct 11 14:19:26 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_top_module $end
+$var wire 8 ! y2 [7:0] $end
+$var wire 1 " y1 $end
+$var reg 8 # x1 [7:0] $end
+$var reg 8 $ x2 [7:0] $end
+$scope module dut $end
+$var wire 8 % data_1 [7:0] $end
+$var wire 8 & data_2 [7:0] $end
+$var wire 8 ' result [7:0] $end
+$var wire 1 " evidence $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b10011111 '
+b11111111 &
+b1100000 %
+b11111111 $
+b1100000 #
+1"
+b10011111 !
+$end
+#10000
+1"
+b11010110 !
+b11010110 '
+b101001 #
+b101001 %
+#20000
+1"
+b10111000 !
+b10111000 '
+b1000111 #
+b1000111 %
+#30000
+1"
+b11010110 !
+b11010110 '
+b101001 #
+b101001 %
+#40000
+b1100100 $
+b1100100 &
+0"
+b10011100 !
+b10011100 '
+b11001000 #
+b11001000 %
+#50000
