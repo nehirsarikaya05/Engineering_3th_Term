@@ -1,3 +1,6 @@
+////    NOR BASED SR LATCH - Combinational Circuit      ////
+////  Early Sprints for Digital Logic Design Lesson ////
+////         Handcoded by chipmaker 𖢥         ////
 `timescale 1ns/1ps
 
 module tb_main;
@@ -30,3 +33,4 @@ module tb_main;
     end
 
 endmodule
+////         Handcoded by chipmaker 𖢥         ////

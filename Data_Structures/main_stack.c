@@ -1,4 +1,4 @@
-////  Classical STACK  with pop, push, print  ////
+////  Classical STACK with pop, push, print  ////
 ////  Early Sprints for Data Structure Lesson ////
 ////         Handcoded by chipmaker 𖢥         ////
 #include <stdio.h>

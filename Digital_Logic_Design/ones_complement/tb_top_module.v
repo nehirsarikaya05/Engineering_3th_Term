@@ -1,3 +1,6 @@
+////  ONE'S COMPLEMENT ~ NOT RELATION CODE   ////
+////  Early Sprints for Digital Logic Design Lesson ////
+////         Handcoded by chipmaker 𖢥         ////
 `timescale 1ns/1ps
 
 module tb_top_module;
@@ -34,3 +37,4 @@ module tb_top_module;
     end
 
 endmodule
+////         Handcoded by chipmaker 𖢥         ////
